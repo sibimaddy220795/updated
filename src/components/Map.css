@@ -1,0 +1,10 @@
+.map iframe{
+	color:#FF8400;
+	font-family: 'Carrois Gothic SC', sans-serif;
+}	
+.map{
+	padding-top: 49px;
+	float:right;
+	width: 30%;
+	height:20%;
+}
